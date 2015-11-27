@@ -1,1 +1,3 @@
-alert("Hello from your Chrome extension!")
+var allElements = document.getElementsByTagName('*');
+console.log('here');
+console.log(allElements);
